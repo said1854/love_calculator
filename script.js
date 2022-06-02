@@ -7,7 +7,7 @@ btn.addEventListener("click", function () {
 
 
     if (input1 == "") {
-        alert("Kendı adını gir")
+        alert("Kendi adını gir")
     } else if (input2 === "") {
         alert("Onun adını gir")
     } else if (input1 == "said" && input2 == "alev") {
